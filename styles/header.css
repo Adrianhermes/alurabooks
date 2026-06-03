@@ -177,5 +177,7 @@
         align-items: center;
     }
 
-    
+    .opcoes-item{
+        cursor: pointer;
+    }
 }
